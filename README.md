@@ -1,4 +1,18 @@
 # [Bootstrap](http://getbootstrap.com)
+
+## THIS IS A FORK
+of https://github.com/twbs/bootstrap
+
+Reason i've created: to **extend the original BS** with new feature branches.
+
+### feature/offside-canvas-unobtrusive
+Allows you to create manu that slides/pushes in from left/right or to create a multi panel sliding container (first 5 are configured inside css).
+Try out the: https://github.com/hidegh/bootstrap/tree/feature/offside-canvas-unobtrusive/tests/offside/offside-test.html example.
+If you like it, go to the original repo (https://github.com/twbs/bootstrap) find my pull request and give a +1.
+
+
+
+## ...
 [![Bower version](https://badge.fury.io/bo/bootstrap.svg)](http://badge.fury.io/bo/bootstrap)
 [![npm version](https://badge.fury.io/js/bootstrap.svg)](http://badge.fury.io/js/bootstrap)
 [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.svg?branch=master)](https://travis-ci.org/twbs/bootstrap)
